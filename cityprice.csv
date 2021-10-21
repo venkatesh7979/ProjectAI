@@ -1,0 +1,215 @@
+City,Part,Price,Quality
+Abohar,Main assembly,56448,83
+Adilabad,Main assembly,54718,72
+Agartala,Main assembly,49844,83
+Agra,Main assembly,49614,76
+Ahmadnagar,Main assembly,51846,84
+Ahmedabad,Main assembly,53839,63
+Aizawl,Main assembly,52127,79
+Ajmer,Main assembly,56467,85
+Akola,Main assembly,59446,96
+Alappuzha,Main assembly,57514,67
+Aligarh,Fuselage assembly,32963,75
+Alipurduar,Fuselage assembly,33620,91
+Allahabad,Fuselage assembly,33582,65
+Alwar,Fuselage assembly,32682,91
+Ambala,Fuselage assembly,33729,76
+Amaravati,Fuselage assembly,31598,73
+Amritsar,Fuselage assembly,32790,85
+Asansol,Fuselage assembly,30785,62
+Aurangabad,Fuselage assembly,31025,81
+Aurangabad1,Wing assembly,4911,83
+Bakshpur,Wing assembly,5108,76
+Bamanpuri,Wing assembly,4985,95
+Baramula,Wing assembly,5147,79
+Barddhaman,Wing assembly,4991,86
+Bareilly,Wing assembly,5398,99
+Belgaum,Wing assembly,5344,91
+Bellary,Wing assembly,4959,95
+Bengaluru,Wing assembly,5393,77
+Bhagalpur,Wing assembly,5036,87
+Bharatpur,Wing assembly,4964,99
+Bharauri,Wing assembly,5298,60
+Bhatpara,Engine,797048,72
+Bhavnagar,Engine,787947,72
+Bhilai,Engine,775512,61
+Bhilwara,Engine,756337,64
+Bhiwandi,Engine,753029,68
+Bhiwani,Engine,763234,60
+Bhopal,Engine,757769,88
+Bhubaneshwar,Engine,792055,98
+Bhuj,Engine,735400,93
+Bhusaval,Engine,780269,77
+Bidar,Engine,756974,68
+Bijapur,Engine,754824,83
+Bikaner,Engine,777127,88
+Bilaspur,Fuselage Nose,443495,85
+Brahmapur,Fuselage Nose,441179,76
+Budaun,Fuselage Nose,449768,60
+Bulandshahr,Fuselage Nose,373512,66
+Calicut,Fuselage Nose,378193,88
+Chanda,Fuselage Nose,448480,67
+Chandigarh,Fuselage Nose,374945,62
+Chennai,Fuselage Nose,424108,83
+Chikka Mandya,Fuselage Nose,444140,71
+Chirala,Fuselage Nose,379199,63
+Coimbatore,Fuselage Nose,440465,65
+Cuddalore,Fuselage Nose,369130,96
+Cuttack,Fuselage Mid,757274,95
+Daman,Fuselage Mid,750490,65
+Davangere,Fuselage Mid,798997,86
+DehraDun,Fuselage Mid,790029,88
+Delhi,Fuselage Mid,786644,84
+Dhanbad,Fuselage Mid,793518,76
+Dibrugarh,Fuselage Mid,785707,73
+Dindigul,Fuselage Mid,789374,99
+Dispur,Fuselage Mid,755871,69
+Diu,Fuselage Mid,783279,85
+Faridabad,Fuselage rare,422321,81
+Firozabad,Fuselage rare,391357,67
+Fyzabad,Fuselage rare,395333,98
+Gangtok,Fuselage rare,442463,63
+Gaya,Fuselage rare,370160,83
+Ghandinagar,Fuselage rare,424950,61
+Ghaziabad,Fuselage rare,384723,72
+Gopalpur,Fuselage rare,435493,94
+Gulbarga,Fuselage rare,385504,67
+Guntur,Fuselage rare,375720,75
+Gurugram,Fuselage rare,418609,87
+Guwahati,Frame,127431,67
+Gwalior,Frame,160456,74
+Haldia,Frame,165389,65
+Haora,Frame,137344,95
+Hapur,Frame,135875,99
+Haripur,Frame,122822,79
+Hata,Frame,146054,82
+Hindupur,Frame,169453,95
+Hisar,Tail Assembly,5108,92
+Hospet,Tail Assembly,4985,67
+Hubli,Tail Assembly,5147,96
+Hyderabad,Tail Assembly,4991,71
+Imphal,Tail Assembly,5398,76
+Indore,Tail Assembly,5344,95
+Itanagar,Tail Assembly,4959,75
+Jabalpur,Tail Assembly,5393,99
+Jaipur,Tail Assembly,5036,80
+Jammu,Tail main,106856,67
+Jamshedpur,Tail main,101728,98
+Jhansi,Tail main,105205,81
+Jodhpur,Tail main,107380,90
+Jorhat,Tail main,99338,91
+Kagaznagar,Tail main,104952,89
+Kakinada,Tail main,108445,83
+Kalyan,Tail main,106278,91
+Karimnagar,Tail main,100915,96
+Karnal,Tail main,102113,70
+Karur,Tail main,104545,99
+Kavaratti,Tail CS,75290,66
+Khammam,Tail CS,84377,62
+Khanapur,Tail CS,79794,96
+Kochi,Tail CS,86458,60
+Kohima,Tail CS,94861,68
+Kolar,Tail CS,83513,86
+Kolhapur,Tail CS,87226,94
+Kolkata,Tail CS,76006,97
+Kollam,Tail CS,97591,90
+Kota,Tail CS,79002,73
+Krishnanagar,Tail CS,83625,79
+Krishnapuram,Tail CS,90998,87
+Kumbakonam,actuators,93597,78
+Kurnool,actuators,78086,96
+Latur,actuators,87211,84
+Lucknow,actuators,99877,95
+Ludhiana,actuators,92252,79
+Machilipatnam,actuators,75635,61
+Madurai,actuators,74647,90
+Mahabubnagar,actuators,86516,87
+Malegaon Camp,actuators,85335,97
+Mangalore,actuators,86400,90
+Mathura,actuators,77896,67
+Meerut,actuators,83057,62
+Mirzapur,Wing main,214215,94
+Moradabad,Wing main,207601,90
+Mumbai,Wing main,191713,69
+Muzaffarnagar,Wing main,215507,70
+Muzaffarpur,Wing main,176073,90
+Mysore,Wing main,180294,87
+Nagercoil,Wing main,217410,84
+Nalgonda,Wing main,176391,69
+Nanded,Wing main,190320,93
+Nandyal,Wing main,185527,94
+Nasik,Wing main,175044,96
+Navsari,Wing main,180938,97
+Nellore,Wing main,191748,62
+New Delhi,Wing main,185707,81
+Nizamabad,Wing CS,84377,72
+Ongole,Wing CS,79794,67
+Pali,Wing CS,86458,89
+Panaji,Wing CS,94861,61
+Panchkula,Wing CS,83513,69
+Panipat,Wing CS,87226,66
+Parbhani,Wing CS,76006,75
+Pathankot,Wing CS,97591,68
+Patiala,Fuselage raw,283618,65
+Patna,Fuselage raw,258184,67
+Pilibhit,Fuselage raw,297772,94
+Porbandar,Fuselage raw,261800,90
+Port Blair,Fuselage raw,253520,97
+Proddatur,Fuselage raw,275553,71
+Puducherry,Fuselage raw,288480,91
+Pune,Fuselage raw,269413,95
+Puri,Fuselage raw,299771,79
+Purnea,Fuselage raw,269012,88
+Raichur,Fuselage raw,261744,75
+Raipur,Fuselage raw,258558,69
+Rajahmundry,Fuselage raw,297846,92
+Rajapalaiyam,Fuselage raw,257258,83
+Rajkot,Tail raw,125394,87
+Ramagundam,Tail raw,139652,63
+Rampura,Tail raw,126479,98
+Ranchi,Tail raw,115996,78
+Ratlam,Tail raw,125502,73
+Raurkela,Tail raw,122727,60
+Rohtak,Tail raw,129293,96
+Saharanpur,Tail raw,124917,86
+Saidapur,Tail raw,119154,89
+Saidpur,Tail raw,137398,75
+Salem,Tail raw,123425,89
+Samlaipadar,Tail raw,124835,95
+Sangli,Tail raw,127512,65
+Saugor,Tail raw,134160,95
+Shahbazpur,Tail raw,113946,87
+Shiliguri,Tail raw,127909,64
+Shillong,Tail raw,119988,73
+Shimla,Tail raw,113266,86
+Shimoga,Front Raw,75892,66
+Sikar,Front Raw,79086,93
+Silchar,Front Raw,88288,93
+Silvassa,Front Raw,81062,82
+Sirsa,Front Raw,101517,71
+Sonipat,Front Raw,86190,71
+Srinagar,Front Raw,85182,63
+Surat,Front Raw,99865,88
+Tezpur,Front Raw,107235,68
+Thanjavur,Front Raw,108708,91
+Tharati Etawah,Front Raw,81361,68
+Thiruvananthapuram,Front Raw,85806,76
+Tiruchchirappalli,Front Raw,108374,60
+Tirunelveli,Front Raw,82763,95
+Tirupati,Engine Raw,301093,87
+Tiruvannamalai,Engine Raw,322743,91
+Tonk,Engine Raw,334092,95
+Tuticorin,Engine Raw,307896,88
+Udaipur,Engine Raw,323786,66
+Ujjain,Engine Raw,315404,71
+Vadodara,Engine Raw,338899,76
+Valparai,Engine Raw,331568,87
+Varanasi,Engine Raw,349041,79
+Vellore,Engine Raw,346462,98
+Vishakhapatnam,Engine Raw,326271,95
+Vizianagaram,Engine Raw,298490,81
+Warangal,Engine Raw,317174,70
+Jorapokhar,Engine Raw,304127,72
+Brajrajnagar,Engine Raw,349756,63
+Talcher,Engine Raw,323142,73
+,,,
